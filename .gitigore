@@ -1,9 +1,10 @@
-/*
+.idea
+*
 !.gitignore
-!system
-system/*
-!system/controllers/
-!system/languages/ru/controllers/lottery/
-system/controllers/*
-!system/controllers/lottery/
+!/system
+/system/*
+!/system/controllers/
+!/system/languages/ru/controllers/lottery/
+/system/controllers/*
+!/system/controllers/lottery/
 
